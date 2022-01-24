@@ -34,7 +34,7 @@ setup(
         'aliyun-python-sdk-core-v3==2.13.3',
         'pyyaml',
         'ratelimiter',
-        'flask',
+        'flask==1.1.0',
         'cachetools',
         'werkzeug==0.16.0',
         'aliyun-python-sdk-ecs==4.16.5',
